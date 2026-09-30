@@ -1,2 +1,2 @@
 # bedrocklol-s-cave
-My website
+This is my repository for my projects, such as; art, game maps, website assets, code, and more!
