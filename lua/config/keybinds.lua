@@ -10,9 +10,13 @@ vim.keymap.set("n", "<leader>bd", "<cmd>bd<CR>")
 vim.keymap.set("n", "<leader>bn", "<cmd>bn<CR>")
 vim.keymap.set("n", "<leader>bp", "<cmd>bp<CR>")
 
-vim.keymap.set("n", "<leader>l", "<cmd>Lazy<CR>")
+vim.keymap.set("n", "<leader>L", "<cmd>Lazy<CR>")
 vim.keymap.set("n", "<leader>m", "<cmd>Mason<CR>")
 vim.keymap.set("n", "<leader>M", "<cmd>MasonUpdate<CR>")
+
+vim.keymap.set("n", "<leader>lg", "<cmd>LazyGit<cr>")
+vim.keymap.set("n", "<leader>ll", "<cmd>$<cr>")
+vim.keymap.set("n", "<leader>fl", "<cmd>1<cr>")
 
 vim.keymap.set("n", "<leader>rs", "<cmd>AutoSession restore<CR>")
 
