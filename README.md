@@ -17,9 +17,6 @@ It's designed for coding JS, CSS, HTML, Python, and Lua files. You can add more 
 
 ## Installation
 
-Clone this repository using git in your terminal:
-
-`git clone https://github.com/bedrocklols-cave/minimal-neovim-config`
-
+Clone this repository by clicking the green button labeled "Code" above the page. You can either download the zip file, or copy the link and use `git clone <repository link>` in your terminal.
 
 Since it's minimal, you are free to expand upon the foundation yourself. Happy typing!
