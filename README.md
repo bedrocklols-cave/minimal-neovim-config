@@ -1,4 +1,4 @@
-# minimal-neovim-config
+# Neovim configuration
 
 This is my minimal Neovim configuration. It uses lazy.nvim as its plugin manager.
 
